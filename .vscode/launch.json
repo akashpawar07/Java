@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lamdaExpression",
+            "request": "launch",
+            "mainClass": "lamdaExpression",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
             "name": "lamdaExpress",
             "request": "launch",
             "mainClass": "lamdaExpress",

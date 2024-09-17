@@ -3,7 +3,7 @@ interface Calcy{
     int add(int i, int j);
 }
 
-public class lamdaExpress {
+public class lamdaExpression {
     public static void main(String[] args) {
         
         Calcy obj = (i ,j) -> i+j;
