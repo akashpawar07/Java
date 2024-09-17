@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch recursion1",
+            "request": "launch",
+            "mainClass": "recursion.recursion1",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch printFactorial",
+            "request": "launch",
+            "mainClass": "printFactorial",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Halfpyramid",
+            "request": "launch",
+            "mainClass": "Halfpyramid",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch HollowRectangle",
+            "request": "launch",
+            "mainClass": "HollowRectangle",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Invertedpyramid",
+            "request": "launch",
+            "mainClass": "Invertedpyramid",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolidRectangle",
+            "request": "launch",
+            "mainClass": "SolidRectangle",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhiledoWhileloop",
+            "request": "launch",
+            "mainClass": "WhiledoWhileloop",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whileloops",
+            "request": "launch",
+            "mainClass": "Whileloops",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch addition_function",
+            "request": "launch",
+            "mainClass": "addition_function",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch butterflyPattern",
+            "request": "launch",
+            "mainClass": "butterflyPattern",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch elseif",
+            "request": "launch",
+            "mainClass": "elseif",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenodd",
+            "request": "launch",
+            "mainClass": "evenodd",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch halfPyramidWithNumber",
+            "request": "launch",
+            "mainClass": "halfPyramidWithNumber",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch sam",
+            "request": "launch",
+            "mainClass": "sam",
+            "projectName": "java_17425e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchbreak",
+            "request": "launch",
+            "mainClass": "switchbreak",
+            "projectName": "java_17425e0"
+        }
+    ]
+}

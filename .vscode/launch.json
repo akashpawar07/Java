@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lamdaExpress",
+            "request": "launch",
+            "mainClass": "lamdaExpress",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "polyMorphism",
+            "request": "launch",
+            "mainClass": "OOPS.polymorphism.polyMorphism",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "multilevel_inheritace",
+            "request": "launch",
+            "mainClass": "OOPS.inheritance.multilevel_inheritace",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "single_inhertance",
+            "request": "launch",
+            "mainClass": "OOPS.inheritance.single_inhertance",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "inhertance",
+            "request": "launch",
+            "mainClass": "OOPS.inheritance.inhertance",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch2",
+            "request": "launch",
+            "mainClass": "Searching.linearSearch2",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "Strings.ex1",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "OOPS.polymorphism.ex1",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "TwoD_array.ex1",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "Searching.linearSearch",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "ex2",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "abd",
+            "request": "launch",
+            "mainClass": "abd",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "inverted_HalfPyramid180degeInverted",
+            "request": "launch",
+            "mainClass": "inverted_HalfPyramid180degeInverted",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "inverted_HalfPyramid",
+            "request": "launch",
+            "mainClass": "inverted_HalfPyramid",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "holo_Rectangle",
+            "request": "launch",
+            "mainClass": "holo_Rectangle",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "half_Pyramid",
+            "request": "launch",
+            "mainClass": "half_Pyramid",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "solid_Rectangle",
+            "request": "launch",
+            "mainClass": "solid_Rectangle",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "msd",
+            "request": "launch",
+            "mainClass": "msd",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "itfor",
+            "request": "launch",
+            "mainClass": "itfor",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "copyConstructors",
+            "request": "launch",
+            "mainClass": "methodAndObject.copyConstructors",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "methodAndObject.constructor",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "methodAndObject.ex1",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "sorting.bubbleSort.ex1",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "bitManipulation.ex1",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "fucntion2",
+            "request": "launch",
+            "mainClass": "fucntion2",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "array_2D",
+            "request": "launch",
+            "mainClass": "array_2D",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "mahi",
+            "request": "launch",
+            "mainClass": "mahi",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "printFactorial",
+            "request": "launch",
+            "mainClass": "printFactorial",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Whileloops",
+            "request": "launch",
+            "mainClass": "Whileloops",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "findx",
+            "request": "launch",
+            "mainClass": "findx",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "variableexample",
+            "request": "launch",
+            "mainClass": "variableexample",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "calculate_Product",
+            "request": "launch",
+            "mainClass": "calculate_Product",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "add_Function",
+            "request": "launch",
+            "mainClass": "add_Function",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch butterflyPattern",
+            "request": "launch",
+            "mainClass": "butterflyPattern",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhiledoWhileloop",
+            "request": "launch",
+            "mainClass": "WhiledoWhileloop",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "Java_a2e71b49"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Java_a2e71b49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "Java_a2e71b49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java_a2e71b49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java_a2e71b49"
+        },
+        {
+            "type": "java",
+            "name": "Launch condtionStatment",
+            "request": "launch",
+            "mainClass": "condtionStatment",
+            "projectName": "Java_a2e71b49"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_a2e71b49"
+        },
+        {
+            "type": "java",
+            "name": "Launch variableexample",
+            "request": "launch",
+            "mainClass": "variableexample",
+            "projectName": "Java_a2e71b49"
+        }
+    ]
+}
