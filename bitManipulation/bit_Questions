@@ -45,7 +45,7 @@ Q3 : Set the 2nd bit (position = 1) of a number n.   (n = 0101)
 	(ii) Operation : OR
 
 		(i) 1<<1
-			0001<<1   <--- now shirt number by 1 to the left side 
+			0001<<1   <--- now shift number by 1 to the left side 
 			0010      <-- this is bitMask value
 
 		(ii)
@@ -87,4 +87,4 @@ Q3 : Update the 2nd bit (position = 2) of a number n+1. (n = 0101)
 		 AND
 			0101
 		________________
-							ans is  which is decimal of = 
+			0001			ans is 1 which is decimal of = 0001

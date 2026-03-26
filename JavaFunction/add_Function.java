@@ -18,7 +18,7 @@ public class add_Function {
         int b = sc.nextInt();
 
         int sum = addFunction(a, b);
-        System.out.println("The SUM is - " + sum);
+        System.out.println("The SUM is :- " + sum);
         
     }
 }

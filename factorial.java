@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class factorial {
+public class factorial{
 
     public static int facto(int n){
         if(n==0 || n ==1){

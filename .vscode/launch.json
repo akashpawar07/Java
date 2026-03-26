@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "traping_water",
+            "request": "launch",
+            "mainClass": "Two_pointer.traping_water",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "findLongestString",
+            "request": "launch",
+            "mainClass": "Strings.findLongestString",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "twoSumWithDuplicates",
+            "request": "launch",
+            "mainClass": "Two_pointer.twoSumWithDuplicates",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "sortedSquareArray",
+            "request": "launch",
+            "mainClass": "Two_pointer.sortedSquareArray",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSortedArray2",
+            "request": "launch",
+            "mainClass": "Two_pointer.MergeTwoSortedArray2",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSortedArray",
+            "request": "launch",
+            "mainClass": "Two_pointer.MergeTwoSortedArray",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "Two_pointer.ex1",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "sorting.bubbleSort.bubbleSort",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "findPeakElem",
+            "request": "launch",
+            "mainClass": "findPeakElem",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "bitManipulation.ex1",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "findGCD",
+            "request": "launch",
+            "mainClass": "findGCD",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "JavaCollections.List.ex1",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "findMax",
+            "request": "launch",
+            "mainClass": "Searching.findMax",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch2",
+            "request": "launch",
+            "mainClass": "Searching.binarySearch2",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "SubarrayEqualsK",
+            "request": "launch",
+            "mainClass": "infosys_questions.SubarrayEqualsK",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch2",
+            "request": "launch",
+            "mainClass": "Searching.linearSearch2",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "Searching.binarySearch",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "add_Function",
+            "request": "launch",
+            "mainClass": "add_Function",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "ak",
+            "request": "launch",
+            "mainClass": "ak",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "sorting.bubbleSort.bubbleSort",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch1",
+            "request": "launch",
+            "mainClass": "Searching.linearSearch1",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "Searching.binarySearch",
+            "projectName": "Java_40855095"
+        },
+        {
+            "type": "java",
             "name": "lamdaExpression",
             "request": "launch",
             "mainClass": "lamdaExpression",

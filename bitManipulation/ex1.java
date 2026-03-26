@@ -2,19 +2,19 @@ package bitManipulation;
 
 
 //Get
-public class ex1 {
-    public static void main(String[] args) {
-     int n = 5; // 0101
-     int position = 3;
-     int bitMask = 1<<position;  // 1<<3
+// public class ex1 {
+//     public static void main(String[] args) {
+//      int n = 5; // 0101
+//      int position = 3;
+//      int bitMask = 1<<position;  // 1<<3
 
-     if((bitMask & n)==0){
-        System.out.println("Bit was 0");
-     }else{
-        System.out.println("Bit was 1");
-     }
-    }
-}
+//      if((bitMask & n)==0){
+//         System.out.println("Bit was 0");
+//      }else{
+//         System.out.println("Bit was 1");
+//      }
+//     }
+// }
 
 
 //Get
@@ -64,7 +64,7 @@ public class ex1 {
 // Update
 public  class ex1 {
     public static void main(String[] args) {
-        int n = 5; // 0101
+        int n = 14; // 1110
         int position = 2;
         int bitMask = 1<<position;
         int notBitmask = ~(bitMask);

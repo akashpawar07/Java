@@ -2,7 +2,7 @@ import java.util.Scanner;
    
 public class forloop {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
         // try (Scanner sc = new Scanner(System.in)) {
 
@@ -31,17 +31,20 @@ public class forloop {
                     // A forever...
                 
         // print the sum of first n natural Number.......................(e.g)
-        System.out.println("Enter a:");
-        int a = sc.nextInt();
-        int sum = 0;
-        for(int i=1;i<=a; i++){
-            sum = sum + i;
-        }
-        System.out.println("Addition is "+sum);
+        // System.out.println("Enter a:");
+        // int a = sc.nextInt();
+        // int sum = 0;
+        // for(int i=1;i<=a; i++){
+        //     sum = sum + i;
+        // }
+        // System.out.println("Addition is "+sum);
         
         //oUTPUT :- 
         // ENTER THE TERM : LIKE 10
         // ADDITIONS = 55
+
+
+
 
     }
 }
