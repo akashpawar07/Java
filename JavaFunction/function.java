@@ -6,7 +6,7 @@ import java.util.*;
 public class function {
 
     public static void printInfo(){
-        String name;
+        String name = null;
         int rollNo;
         float marks;
         

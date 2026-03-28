@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "reverseArray",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "cubesOfNubers",
+            "request": "launch",
+            "mainClass": "cubesOfNubers",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "sortColors",
+            "request": "launch",
+            "mainClass": "Two_pointer.sortColors",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicateFromSortedArray",
+            "request": "launch",
+            "mainClass": "Two_pointer.removeDuplicateFromSortedArray",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "TwoD_array.reverseArray",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
+            "name": "tripletsSum",
+            "request": "launch",
+            "mainClass": "Two_pointer.tripletsSum",
+            "projectName": "Java_5bb59a12"
+        },
+        {
+            "type": "java",
             "name": "traping_water",
             "request": "launch",
             "mainClass": "Two_pointer.traping_water",
